@@ -1,0 +1,60 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/overview/
+  sub-links:
+  - title: Overview
+    url: /who-we-are/overview/
+  - title: Milestones
+    url: /who-we-are/milestones/
+  - title: Organisation Structure
+    url: /who-we-are/organisation-structure/
+  - title: Collaborations
+    url: /who-we-are/collaborations/
+  - title: Join Us
+    url: /who-we-are/join-us/
+- title: Services
+  url: /services/accreditation-services/
+  sub-links:
+  - title: Accreditation Services
+    url: /services/accreditation-services/
+  - title: GLP Compliance Monitoring
+    url: /services/GLP-compliance-monitoring/
+  - title: Training
+    url: /services/training/
+- title: Get Accredited
+  url: /get-accredited/overview/
+  sub-links:
+  - title: Overview
+    url: /get-accredited/overview/
+  - title: Why Get Accredited
+    url: /get-accredited/why-get-accredited/
+  - title: How To Get Accredited
+    url: /get-accredited/how-to-get-accredited/
+  - title: Choosing A CAB
+    url: /get-accredited/choosing-a-CAB/
+  - title: Find CAB
+    url: /get-accredited/find-CAB/
+  - title: Find Certified Companies
+    url: /get-accredited/find-certified-companies/
+  - title: Success Stories
+    url: /get-accredited/success-stories/
+- title: Resources
+  url: /resources/
+  sub-links:
+  - title: All
+    url: /resources/
+  - title: News Releases
+    url: /resources/news-releases/
+  - title: Publications
+    url: /resources/publications/
+  - title: Brochures
+    url: /resources/brochures/
+  - title: Courses
+    url: /resources/courses/
+- title: Contact Us
+  url: /contact-us/
